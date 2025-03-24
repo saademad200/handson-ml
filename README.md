@@ -16,6 +16,7 @@ Simply open the [Jupyter](http://jupyter.org/) notebooks you are interested in:
 
 # Installation
 
+
 First, you will need to install [git](https://git-scm.com/), if you don't have it already.
 
 Next, clone this repository by opening a terminal and typing the following commands:
